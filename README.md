@@ -4,4 +4,4 @@
 
 > Uses an LSTM model with attention-based feature selection to predict the age of a person from their DNA methylation frequencies.
 
-> Data have been obtained from NCBI GEO and consists of several Healthy, Disease & Saliva GSE Datasets
+> Data has been obtained from NCBI GEO and consists of several Healthy, Disease & Saliva GSE Datasets
